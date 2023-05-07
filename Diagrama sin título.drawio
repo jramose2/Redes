@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T21:01:33.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PS28Lo0fQAIplMRoGRec" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T21:02:36.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="g3CsZ96S_CEErr96brQ6" version="21.2.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2702" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2702" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
           <mxGeometry x="409" y="980" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LEo_Tgoe2vaSh1sATcVp-2292" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Nivel 2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1881" y="870" width="70" height="30" as="geometry" />
+          <mxGeometry x="1750" y="405" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LEo_Tgoe2vaSh1sATcVp-2293" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Administracion&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1114" y="593" width="130" height="30" as="geometry" />
